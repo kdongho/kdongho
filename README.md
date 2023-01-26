@@ -1,5 +1,6 @@
 - Data Engineer
 - Handling airflow, kafka, flink, dbt, docker swarm.
+- built and operating self-hosted data-catalog (Linkedin / datahub)
 - Working for GS E&C.
 
 <!---
